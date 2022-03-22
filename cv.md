@@ -9,7 +9,7 @@
 school*
 #Code example:
 function sum(){
-let a = 7;
+let a = 11;
 let b = 5;
  sum = a + b;
  console.log(sum);
