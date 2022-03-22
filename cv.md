@@ -1,13 +1,13 @@
-#Name:
-###Andrei Semchenko
-#Contact:
+# Name:
+### Andrei Semchenko
+# Contact:
 * Phone: *375 29 1581382*
 * mail: *ak445@mail.ru*
 * Discotr: *Andrei Semchenko*
-#About me:
+# About me:
 *I studied JS at GLO Academy webinars, now I continue to study Front-End at RS 
 school*
-#Code example:
+# Code example:
 function sum(){
 let a = 11;
 let b = 5;
@@ -15,11 +15,11 @@ let b = 5;
  console.log(sum);
 }
 sum();
-#Work experience:
+# Work experience:
 1. Glo Academy.
 2. WebCademy.
 3. [JS](https://learn.javascript.ru).
-#Languages.
+# Languages.
 * English - A2.
 * Russian - native.
 * Belarussin - native.
