@@ -16,9 +16,9 @@ let b = 5;
 }  
 sum();  
 # Work experience:  
-1  Glo Academy.  
-2  WebCademy.  
-3  [learn.javascript](https://learn.javascript.ru).  
+1.  Glo Academy.  
+1.  WebCademy.  
+1.  [learn.javascript](https://learn.javascript.ru).  
 # Languages.  
 * EEEEnglish - A2.  
 * Russian - native.  
