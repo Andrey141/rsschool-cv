@@ -16,9 +16,9 @@ function sum(){
 }  
 sum();  
 # Work experience:  
-1. Glo Academy.  
-2. WebCademy.  
-3. [learn.javascript](https://learn.javascript.ru).  
+- Glo Academy.  
+- WebCademy.  
+- [learn.javascript](https://learn.javascript.ru).  
 # Languages.  
 * English - A2.  
 * Russian - native.  
