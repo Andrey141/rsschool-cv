@@ -16,10 +16,10 @@ let b = 5;
 }  
 sum();  
 # Work experience:  
-1. Glo Academy.  
-2. WebCademy.  
-3. [learn.javascript](https://learn.javascript.ru).  
+1  Glo Academy.  
+2  WebCademy.  
+3  [learn.javascript](https://learn.javascript.ru).  
 # Languages.  
-* English - A2.  
+* EEEEnglish - A2.  
 * Russian - native.  
 * Belarussin - native.  
