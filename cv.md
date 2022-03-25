@@ -9,17 +9,17 @@
 school*  
 # Code example:  
 function sum(){  
-let a = 11;  
-let b = 5;  
+ let a = 11;  
+ let b = 5;  
  sum = a + b;  
  console.log(sum);  
 }  
 sum();  
 # Work experience:  
-1.  Glo Academy.  
-1.  WebCademy.  
-1.  [learn.javascript](https://learn.javascript.ru).  
+1. Glo Academy.  
+2. WebCademy.  
+3. [learn.javascript](https://learn.javascript.ru).  
 # Languages.  
-* EEEEnglish - A2.  
+* English - A2.  
 * Russian - native.  
 * Belarussin - native.  
